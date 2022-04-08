@@ -1,4 +1,4 @@
-<img src="https://www.seekpng.com/png/full/250-2503001_why-hire-a-freelancer-web-designer-web-designer.png" alt="webdev" width="100%" height="75%"  />
+<img src="https://www.seekpng.com/png/full/250-2503001_why-hire-a-freelancer-web-designer-web-designer.png" alt="webdev" width="100%" style={{height:"50%"}}  />
 
 
 👋 Hi, I’m Raveesh Gowda
