@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning MERN Stack
 
-📫 How to reach me rav55sh@gmail.com
+📫 How to reach me rav55sh@gmail.com; raveesh512@gmail.com
 
 
 
