@@ -1,6 +1,6 @@
 <img src="https://www.seekpng.com/png/full/250-2503001_why-hire-a-freelancer-web-designer-web-designer.png" alt="webdev" width="100%" height="500" />
 
-👋 Hi, I’m Raveesh Gowda
+<h1>👋 Hi, I’m Raveesh Gowda</h1>
 
 👀 I’m interested in building a full fledge web applications for a better user expirience
 
@@ -10,7 +10,7 @@
 
 
 
-**TECH STACK**
+<h1>TECH STACK</h1>
 
 -HTML, CSS, Javascript (ES5 & ES6)
 
@@ -18,12 +18,14 @@
 
 -Bootstrap & Material UI
 
+-Git & GitHub
+
 -NodeJs, ExpressJs
 
 -MongoDB
 
 
-**CONNECT WITH ME**
+<h1>CONNECT WITH ME</h1>
 
 LinkedIn- https://www.linkedin.com/in/raveesh-gowda-k-121b591a4
 
