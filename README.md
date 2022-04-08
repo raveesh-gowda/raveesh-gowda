@@ -2,28 +2,24 @@
 
 <h1>👋 Hi, I’m Raveesh Gowda</h1>
 
-👀 I’m interested in building a full fledge web applications for a better user expirience
+<p>👀 Tech Enthusiast</p>
 
-🌱 I’m currently learning MERN Stack
+<p>🌱 I’m currently learning MERN Stack</p>
 
-📫 How to reach me rav55sh@gmail.com; raveesh512@gmail.com
+<p>📫 How to reach me rav55sh@gmail.com; raveesh512@gmail.com</p>
 
 
 
 <h1>TECH STACK</h1>
 
--HTML, CSS, Javascript (ES5 & ES6)
-
--ReactJs, Redux
-
--Bootstrap & Material UI
-
--Git & GitHub
-
--NodeJs, ExpressJs
-
--MongoDB
-
+<ul>
+  <li>HTML, CSS, Javascript (ES5 & ES6)</li>
+  <li>ReactJs, Redux</li>
+  <li>Bootstrap & Material UI</li>
+  <li>Git & GitHub</li>
+  <li>NodeJs, ExpressJs</li>
+  <li>MongoDB</li>
+</ul>
 
 <h1>CONNECT WITH ME</h1>
 
