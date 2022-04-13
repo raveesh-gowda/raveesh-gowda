@@ -10,7 +10,7 @@
 
 
 
-<h1>TECH STACK</h1>
+<h3>SKILLS</h3>
 
 <ul>
   <li>HTML, CSS, Javascript (ES5 & ES6)</li>
@@ -21,7 +21,12 @@
   <li>MongoDB</li>
 </ul>
 
-<h1>CONNECT WITH ME</h1>
+<h3>TOOLS</h3>
+<li>Visual Studio Code</li>
+<li>Postman API</li>
+<li>Git & GitHub</li>
+
+<h3>CONNECT WITH ME</h3>
 
 LinkedIn- https://www.linkedin.com/in/raveesh-gowda-k-121b591a4
 
