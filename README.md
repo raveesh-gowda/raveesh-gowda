@@ -8,7 +8,7 @@
 
 
 
-<h3>	:juggling_person:SKILLS</h3>
+<h3>:juggling_person: SKILLS</h3>
 
 <ul>
   <li>HTML, CSS, Javascript (ES5 & ES6)</li>
@@ -24,7 +24,7 @@
 <li>Postman API</li>
 <li>Git & GitHub</li>
 
-<h3>:globe_with_meridians:CONNECT WITH ME</h3>
+<h3>:handshake: CONNECT WITH ME</h3>
 
 LinkedIn- https://www.linkedin.com/in/raveesh-gowda-k-121b591a4
 
