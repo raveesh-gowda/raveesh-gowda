@@ -28,6 +28,8 @@
 
 LinkedIn- https://www.linkedin.com/in/raveesh-gowda-k-121b591a4
 
+Gmail- raveesh512@gmail.com
+
 <!---
 raveesh-gowda/raveesh-gowda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
