@@ -2,12 +2,19 @@
 
 <h3 align="center">Passionate Fullstack Web Developer</h3>
 
-<p>👀 Tech Enthusiast</p>
+<br/>
 
-<p>🌱 I’m currently learning MERN Stack</p>
+<img align="right" alt="coding" width="400" src="https://www.chawtechsolutions.com/mycts/wp-content/uploads/2019/03/developer-dribbble.gif"/>
 
-<p>📫 How to reach me <a href="raveesh512@gmail.com" target="_blank"> raveesh512@gmail.com</a> </p>
+- 👀 Tech Enthusiast
 
+- 🌱 I’m currently learning **NODEJS, EXPRESSJS, MONGODB**
+
+- 💬 Ask me about **ReactJS, Redux, Web Development**
+
+- 📫 How to reach me **raveesh512@gmail.com**
+
+<br/>
 
 <h3>:hammer_and_wrench: LANGUAGES AND TOOLS </h3>
 <p align="left">
@@ -22,16 +29,24 @@
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 </p>
 
+<br/>
 
 <h3>:handshake: CONNECT WITH ME</h3>
 <p align="left">
-<a href="raveesh512@gmail.com" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="raveeshgowdak" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/raveesh-gowda-k-121b591a4" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="raveeshgowdak" height="30" width="40" /></a>
-<a href="https://instagram.com/ravee5h" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="raveeshgowdak" height="30" width="40" /></a>
+<a href="raveesh512@gmail.com" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="raveesh-gowda" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/raveesh-gowda-k-121b591a4" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="raveesh-gowda" height="30" width="40" /></a>
+<a href="https://instagram.com/ravee5h" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="raveesh-gowda" height="30" width="40" /></a>
 </p>
 
+<br/>
 
-<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=raveesh-gowda &show_icons=true alt="raveeshgowdak" /> </p>
+<h3>:chart_with_upwards_trend: MY STATS</h3>
+
+<p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=raveesh-gowda&show_icons=true&locale=en&layout=compact" alt="raveesh-gowda" /></p>
+
+<br/>
+
+<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=raveesh-gowda &show_icons=true alt="raveesh-gowda" /> </p>
 
 <!---
 raveesh-gowda/raveesh-gowda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
