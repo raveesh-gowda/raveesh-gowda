@@ -8,7 +8,7 @@
 
 - 👀 Tech Enthusiast
 
-- 🌱 I’m currently learning **NODEJS, EXPRESSJS, MONGODB**
+- 🌱 I’m currently learning **NodeJS, ExpressJS, MongoDB**
 
 - 💬 Ask me about **ReactJS, Redux, Web Development**
 
@@ -24,12 +24,13 @@
       <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
           <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="hhttps://getbootstrap.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://mui.com/" target="_blank"> <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--IwFcphyV--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://thepracticaldev.s3.amazonaws.com/i/vb6ai56xqgpc0bcfn92y.png" alt="react" width="50" height="40"/> </a>
+  <a href="hhttps://getbootstrap.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+  <a href="https://mui.com/" target="_blank"> <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--IwFcphyV--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://thepracticaldev.s3.amazonaws.com/i/vb6ai56xqgpc0bcfn92y.png" alt="mui" width="50" height="40"/> </a>
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
      <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
     <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
-    <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="redux" width="40" height="40"/> </a>
+    <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
+    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/771px-Visual_Studio_Code_1.18_icon.svg.png" alt="vscode" width="40" height="40"/> </a>
 </p>
 
 <br/>
@@ -49,7 +50,7 @@
 
 <br/>
 
-<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=raveesh-gowda&show_icons=true alt="raveesh-gowda" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=raveesh-gowda&show_icons=true" alt="raveesh-gowda" /> </p>
 
 <!---
 raveesh-gowda/raveesh-gowda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
