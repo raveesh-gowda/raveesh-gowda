@@ -10,7 +10,7 @@
 
 - 🌱 Currently learning **NodeJS, ExpressJS, MongoDB**
 
-- 💬 Ask me about **ReactJS, Redux, Web Development**
+- 💬 Ask me about **ReactJS, Redux, NextJS, SvelteJS, Web Development**
 
 - 📫 How to reach me **raveesh512@gmail.com**
 
